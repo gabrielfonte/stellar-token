@@ -1,0 +1,9 @@
+# Rust's output directory
+target
+.idea
+.soroban
+.vscode
+Cargo.lock
+
+
+
